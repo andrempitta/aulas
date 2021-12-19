@@ -1,0 +1,20 @@
+25/10/2021
+
+virtualenv:
+python -m venv ./venv
+
+source ./venv/bin/activate
+
+(Ele faz um link ao python)
+
+
+pypi (lê-se:paipiai)
+
+poetry (funciona com todo o ambiente do phyton)
+
+add, build, publish
+
+pipenv X (não é bom usar, "bomba relógio")
+
+pipx (virtualenv + pip | para apenas instalar sua aplicação e dependencia em ambiente virtual)
+

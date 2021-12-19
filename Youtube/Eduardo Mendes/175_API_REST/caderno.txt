@@ -1,0 +1,25 @@
+Flask
+
+pip install flask
+pip install flask-pydantic-spec
+
+Banco de dados usado: tinydb
+pip install tintdb
+
+
+Servidor:
+no console:
+    FLASK_DEBUG = 1 Flask run
+
+Flask routes # para ver as rotas de end point
+
+___
+HTTPIE:
+No terminal usando o httpie
+pip install htttpie
+
+para adicionar no servidor:
+http post http://127.0.0.1:5000/pessoas id=2 idade=10 nome=Marcela
+
+__
+Consultar códigos http status: https://http.cat/
